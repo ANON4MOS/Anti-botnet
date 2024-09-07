@@ -14,4 +14,4 @@ instale as dependencias e execute o script ``` python3 'Anti - botnet.py' ```
 
 ``` pip install termcolor ```
 
-``` sudo apt install git python3 -y ```
+``` sudo apt install git python3 python3-pip -y ```
