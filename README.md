@@ -9,7 +9,7 @@ um script simples feito em python para bloquear ips de possiveis botnets usando 
 
 ``` pip install termcolor ```
 
-# como instalar? 
+# Como instalar? 
 primeiro clone esse respositorio: ``` git clone https://github.com/ANON4MOS/Anti-botnet/ ```
 
 dps entre na pasta gerada: ``` cd Anti-botnet ```
