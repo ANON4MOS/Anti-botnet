@@ -1,5 +1,5 @@
 # Anti - botnet
-um script simples feito em python para bloquear ips de possiveis botnets
+um script simples feito em python para bloquear ips de possiveis botnets usando o iptables
 
 # Como instalar as dependencias?
 
