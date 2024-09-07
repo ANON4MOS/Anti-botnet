@@ -6,7 +6,7 @@ primeiro clone esse respositorio: ``` git clone https://github.com/ANON4MOS/Anti
 
 dps entre na pasta gerada: ``` cd Anti-botnet ```
 
-instale as dependencias e execute o script ``` python3 Anti - botnet.py ```
+instale as dependencias e execute o script ``` python3 'Anti - botnet.py' ```
 
 # Como instalar as dependencias?
 
