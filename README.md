@@ -18,4 +18,7 @@ dps entre na pasta gerada: ``` cd Anti-botnet ```
 
 instale as dependencias e execute o script ``` python3 Anti-botnet.py ```
 
+![image](https://github.com/user-attachments/assets/33780c21-0474-43d7-8f64-e22d9384b7ea)
+
+
 ![image](https://github.com/user-attachments/assets/84fd501f-c165-440d-9826-6b5a4bdc3bc4)
