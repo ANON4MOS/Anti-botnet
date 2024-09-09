@@ -11,6 +11,8 @@ um script simples feito em python para bloquear ips de possiveis botnets usando 
 
 ``` sudo apt install tshark -y ```
 
+``` sudo apt install wireshark -y ```
+
 # Como instalar? 
 primeiro clone esse respositorio: ``` git clone https://github.com/ANON4MOS/Anti-botnet/ ```
 
